@@ -1,5 +1,5 @@
 const axiosInstance = axios.create({
-    baseURL : "https://crudcrud.com/api/f92d362c436540caa81fe2d5d3a33c83/generalstore"
+  baseURL : 'https://crudcrud.com/api/49ab1f123b2e4d8888959f02d0cfc4c4/appointment'
 })
 let ul = document.querySelector('.display ul')
 
