@@ -1,7 +1,6 @@
 const axiosInstance = axios.create({
     baseURL : "https://crudcrud.com/api/71419404975640168311e8925ae8def4/generalstore"
 })
-let ul = document.querySelector('.display ul')
 
 window.addEventListener('load' , renderElements)
 
