@@ -5,7 +5,7 @@ let ul = document.querySelector('.display ul')
 
 window.addEventListener('load' , renderElements)
 
-document.querySelector('.addItem form').addEventListener('submit', handleSubmit)
+document.querySelector('.addItem form').addEventListener('subit', handleSubmit)
 
 ul.addEventListener('click', handleClick)
 
